@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: sdinf
+Build-Jdk: 11.0.7
+Implementation-Title: rest-spring-boot
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: br.com.roberto
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/rest-spring-boot
+Created-By: Maven Integration for Eclipse
+
